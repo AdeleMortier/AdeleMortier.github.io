@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adèle"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Hi, I am a French student in Linguistics. I also like computer science, and I am currently looking for PhD opportunities!"
   location         : "Paris, France"
   employer         :
@@ -189,19 +189,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _work
+  # _docs
   - scope:
       path: ""
-      type: work
+      type: docs
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _darlings
+  # _cats
   - scope:
       path: ""
-      type: my darlings
+      type: cats
     values:
       layout: single
       author_profile: true
