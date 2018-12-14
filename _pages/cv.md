@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Modern and comparative literature, Sorbonne University, 2017
+* M.S. in Computer Science, Telecom ParisTech, 2018
+* M.S in Cognitive Science, ENS Ulm, 2019 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Novosibirsk State University
+  * Duties included: modeling
+  * Supervisor: Sergey Kabanikhin
 
 * Fall 2015: Research Assistant
   * Github University
