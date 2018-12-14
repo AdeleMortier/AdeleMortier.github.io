@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adèle Mortier / Personal website"
+title                    : "Adèle Mortier / Webpage"
 title_separator          : "-"
 name                     : &name "Adèle Mortier"
 description              : &description "Grad student in formal linguistics"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Adèle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi, I am a French student in Linguistics. I also like computer science, and I am currently looking for PhD opportunities!"
+  location         : "Paris, France"
   employer         :
   googlescholar    : 
   email            :
@@ -188,17 +188,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -206,41 +195,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _work
   - scope:
       path: ""
-      type: teaching
+      type: work
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _darlings
   - scope:
       path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: my darlings
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
