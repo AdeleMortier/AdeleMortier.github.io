@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage. My name is Adèle. Here you will find some information about me, my work and my future projects.
+Welcome to my webpage. My name is Adèle. Here you will find some information about me, my work, my cats and my future projects.
 
