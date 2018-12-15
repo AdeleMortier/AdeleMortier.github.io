@@ -1,6 +1,6 @@
 ---
 title: "Cat number 1"
-excerpt: "My darling Sacha. She is a bit wild sometimes, but never bites.<br/><img src='/images/sacha1.jpg'>"
+excerpt: "My darling Sacha. She is a bit wild sometimes, but never bites.<br/><img src='/images/500x300.png'>"
 collection: cats
 ---
 
