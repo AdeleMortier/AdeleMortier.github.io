@@ -1,5 +1,5 @@
 ---
 title: ""
-excerpt: "My darling Sacha. She is like a diva in this pic.<br/><img src='/images/sacha2.jpg'>"
+excerpt: "I donwant the corks, I thank outside box.<br/><img src='/images/sacha2.jpg'>"
 collection: cats
 ---
