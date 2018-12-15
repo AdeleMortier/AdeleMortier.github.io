@@ -13,7 +13,7 @@ Education
 ======
 * B.A./M.A. in Modern and comparative literature, Sorbonne Nouvelle University, 2019 (expected)
 * M.S. in Computer Science, Telecom ParisTech, 2018
-* M.S in Cognitive Science, ENS Ulm, 2019 (expected)
+* M.S in Cognitive Science, ENS Ulm & HEC Paris, 2019 (expected)
 
 Work experience
 ======
@@ -37,32 +37,16 @@ Work experience
   * Duties included: dialogue modeling with incremental parsing using Type Theory with records
   * Supervisor: Jonathan Ginzburg
 
+* Spring-Summer 2019: Research Intern
+  * Institut Jean Nicod, Paris, France
+  * Duties included: semantics and pragmatics of approximation expressions using implicature-based and probabilistic approaches
+  * Supervisors: Paul Égré, Benjamin Spector
+
 
   
 Skills
 ======
 * Programming Languages : Python, C++, Coq, HTML, CSS
 * Software : Latex, MS Word, MS Excel
-* Languages: french (native), english (fluent), german (average), russian, dutch and japanese (notions)
+* Languages: french (native), english (fluent), german (intermediate), russian, dutch and japanese (notions)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
