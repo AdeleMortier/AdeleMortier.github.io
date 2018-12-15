@@ -172,7 +172,7 @@ kramdown:
 
 # Collections
 collections:
-  works:
+  docs:
     output: true
     permalink: /:collection/:path/
   darlings:
