@@ -1,15 +1,12 @@
 ---
-title: "Paper Title bla X"
+title: "Incremental dialogue modeling"
 collection: docs
-permalink: /docs/2010-10-01-paper-title-number-2(copie)
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /docs/2018-dialogue-modeling-report
+excerpt: 'This report is about incremental dialogue modeling. '
+date: 2018-08-30
+venue: 
+paperurl: 'http://adelemortier.github.io/files/idm_re.pdf'
+citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://adelemortier.github.io/files/idm_re.pdf)

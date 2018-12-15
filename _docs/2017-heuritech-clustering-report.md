@@ -1,13 +1,12 @@
 ---
-title: "Genome sequencing data analysis"
+title: "Clustering algorithms for style discovery"
 collection: docs
 permalink: /docs/2016-genome-sequencing-report
-excerpt: 'This report is about the analysis of DNA sequences from Parkinsonian and caridac patients. I trimmed, filtered, and aligned DNA sequences using several softwares (Bowtie 2, GATK), in order to prepare these data for variant discovery. I ended up finding several genes that presented unusual mutations and that were notably linked with the pathologies of the patients.'
+excerpt: ''
 date: 2016-09-01
-venue: ""
-paperurl: 'http://adelemortier.github.io/files/gsda_re.pdf'
-citation: ""
+venue: 
+paperurl: 'http://adelemortier.github.io/files/style_discovery.pdf'
+citation:
 ---
-This report is about the analysis of DNA sequences from Parkinsonian and caridac patients. I trimmed, filtered, and aligned DNA sequences using several softwares (Bowtie 2, GATK), in order to prepare these data for variant discovery. I ended up finding several genes that presented unusual mutations and that were notably linked with the pathologies of the patients.
 
-[Download paper here](http://adelemortier.github.io/files/gsda_re.pdf)
+[Download paper here](http://adelemortier.github.io/files/style_discovery.pdf)
