@@ -1,13 +1,15 @@
 ---
-title: "Genome sequencing data analysis"
+title: "La logique fromelle"
 collection: docs
-permalink: /docs/2016-genome-sequencing-report
-excerpt: 'This report is about the analysis of DNA sequences from Parkinsonian and caridac patients. I trimmed, filtered, and aligned DNA sequences using several softwares (Bowtie 2, GATK), in order to prepare these data for variant discovery. I ended up finding several genes that presented unusual mutations and that were notably linked with the pathologies of the patients.'
+permalink: /docs/2018-logique-fromelle
+excerpt: 'Satirical article on J.-Y. Girard linear logic theory. It is inspired by Girard's own satirical work called [Les montres à moutarde : une approche intégrée au temps et à la
+nourriture](http://girard.perso.math.cnrs.fr/moutarde.pdf). It talks about the links between cheese and linear logic. Anyway, this article was only a school project; and to be honest I deeply admire the work of Girard.'
 date: 2016-09-01
 venue: ""
-paperurl: 'http://adelemortier.github.io/files/gsda_re.pdf'
+paperurl: 'http://adelemortier.github.io/files/logique_fromelle.pdf'
 citation: ""
 ---
-This report is about the analysis of DNA sequences from Parkinsonian and caridac patients. I trimmed, filtered, and aligned DNA sequences using several softwares (Bowtie 2, GATK), in order to prepare these data for variant discovery. I ended up finding several genes that presented unusual mutations and that were notably linked with the pathologies of the patients.
+Satirical article on J.-Y. Girard linear logic theory. It is inspired by Girard's own satirical work called [Les montres à moutarde : une approche intégrée au temps et à la
+nourriture](http://girard.perso.math.cnrs.fr/moutarde.pdf). Anyway, this article was only a school project; and I deeply admire the work of Girard.
 
-[Download paper here](http://adelemortier.github.io/files/gsda_re.pdf)
+[Download paper here](http://adelemortier.github.io/files/logique_fromelle.pdf)
