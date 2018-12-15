@@ -175,7 +175,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  darlings:
+  cats:
     output: true
     permalink: /:collection/:path/
 
